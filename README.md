@@ -1,25 +1,21 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🔍 Real-Time Object Detection with YOLOv8 + Streamlit
 
-Description of the app ...
+This project demonstrates **real-time object detection** using the **YOLOv8 model** integrated with **Streamlit** for an interactive web-based interface.  
+You can either use your **webcam** or **upload a video file** to detect objects.
 
-## Demo App
+---
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+## 🚀 Features
+- Real-time **object detection** using webcam.
+- Supports **video file uploads** (`.mp4`, `.avi`, `.mov`, `.mkv`).
+- Displays **bounding boxes** with detected class names and confidence scores.
+- Built with **Streamlit** for an easy-to-use web UI.
 
-## GitHub Codespaces
+---
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+## 🛠️ Installation
 
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/yolov8-streamlit-detection.git
+cd yolov8-streamlit-detection
